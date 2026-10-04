@@ -229,13 +229,13 @@ The project demonstrates reliable operation of LCD, keypad, EEPROM, touchscreen,
 
 # 👩‍💻 Author
 
-**Varshitha Vakkanthula**
+**Sirichandana Rapelli**
 
 Electronics and Communication Engineering
 
 Embedded Systems Enthusiast
 
-GitHub: https://github.com/Varshitha-Vakkanthula
+GitHub:https://github.com/sirichandanarapelli04/Touch-Based-Device-Control-System-For-Bedridden-Patients
 
 ---
 
