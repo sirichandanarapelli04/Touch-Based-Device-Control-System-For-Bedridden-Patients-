@@ -235,8 +235,7 @@ Electronics and Communication Engineering
 
 Embedded Systems Enthusiast
 
-GitHub:https://github.com/sirichandanarapelli04/Touch-Based-Device-Control-System-For-Bedridden-Patients
-
+GitHub:https://github.com/sirichandanarapelli04
 ---
 
 ## 🙏 Acknowledgement
