@@ -1,1 +1,0 @@
-void InitUART0(void);
